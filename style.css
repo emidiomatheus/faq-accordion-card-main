@@ -25,7 +25,7 @@ body {
     background: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
     overflow: hidden;
 
-    font-size: 14px;
+    font-size: 18px;
 }
 
 #container {
@@ -186,7 +186,7 @@ a {
         width: 90%;
         
         position: relative;
-        top: -0.5rem;
+        top: -5%;
         right: 50%;
         left: 28%;
     }
